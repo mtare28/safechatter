@@ -76,7 +76,7 @@ Keep this terminal running.
 
 ---
 
-### **4. Terminal 4:Run the Application Frontend (Client)**
+### **4. Terminal 4: Run the Application Frontend (Client)**
 
 This command starts the Gradio web interface, which connects to your backend. It will generate a live, public URL that you can use to access the application.
 
