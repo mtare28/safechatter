@@ -14,7 +14,6 @@ This application is designed to run on a powerful, GPU-accelerated machine. The 
 
 *   **Software:** Python 3.8+ and Git.
 
-
 ## Installation
 
 The installation process is streamlined using a single shell script that handles all system and Python dependencies.
@@ -22,9 +21,8 @@ The installation process is streamlined using a single shell script that handles
 1.  **Clone the Repository**
     First, clone this repository to your local machine and navigate into the project directory.
     ```bash
-    # Replace <your-repo-url> with the actual URL of your repository
-    git clone <your-repo-url>
-    cd safechatter_tweek
+    git clone git@github.com:mtare28/safechatter.git
+    cd safechatter
     ```
 
 2.  **Run the Installation Script**
