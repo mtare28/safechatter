@@ -1,0 +1,15 @@
+transformers
+torch
+scikit-learn
+pandas
+textblob
+langchain-ollama
+langchain
+langchain-openai
+streamlit
+pydantic
+langserve
+fastapi
+uvicorn
+sse_starlette
+gradio
